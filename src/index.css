@@ -53,6 +53,12 @@ form div.input-field input {
   border-color: #00ff41;
 }
 
+form div.input-field small {
+  color: red;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
 form input[type=submit] {
   position: relative;
   border: none;
