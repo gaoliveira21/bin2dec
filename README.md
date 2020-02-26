@@ -1,4 +1,4 @@
-Idea from [repo](https://github.com/florinpop17/app-ideas)
+Idea from [here](https://github.com/florinpop17/app-ideas)
 
 Tier: 1-Beginner
 
@@ -13,10 +13,10 @@ This challenge requires that the developer implementing it follow these constrai
 
 ## User Stories
 
-[X] User can enter up to 8 binary digits in one input field
-[X] User must be notified if anything other than a 0 or 1 was entered
-[X] User views the results in a single output field containing the decimal (base 10) equivalent of the the binary number that was entered
+ - [X] User can enter up to 8 binary digits in one input field
+ - [X] User must be notified if anything other than a 0 or 1 was entered
+ - [X] User views the results in a single output field containing the decimal (base 10) equivalent of the the binary number that was entered
 
 ## Bonus features
 
-[X] User can enter a variable number of binary digits
+ - [X] User can enter a variable number of binary digits
